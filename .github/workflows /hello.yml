@@ -18,9 +18,6 @@ jobs:
       - name: Say hello to everyone
         run: echo "Hello Dosto"
 
-      
-      
-
     
    
   
